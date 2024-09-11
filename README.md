@@ -1,5 +1,7 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" align="center">
 <h1 align="center">Hi 👋, I'm Révai Erik</h1>
 <h3 align="center">I'm a 19-year-old software and web developer student from Hungary</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" align="right">
 
 - 🌱 I’m currently learning **C#, Unity, ASP.NET**
 
