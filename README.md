@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/erik.revai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erik.revai" height="30" width="40" /></a>
-<a href="https://x.com/ErikRevai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-x.svg" alt="ErikRevai" height="30" width="40" /></a>
+<a href="https://x.com/ErikRevai" target="blank"><img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/blob/main/.github/images/x_white.webp" alt="ErikRevai" height="30" width="40" /></a>
 <a href="https://www.instagram.com/revaierik004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ErikRevai" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/erik-r%C3%A9vai-915ba92b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ErikRevai" height="30" width="40" /></a>
 </p>
